@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "Offer",
+    "path": "/",
+    "name": "Explore"
+  },
+  {
+    "icon": "Explore",
+    "path": "/offers",
+    "name": "Offers"
+  },
+  {
+    "icon": "PersonOutline",
+    "path": "/profile",
+    "name": "Profile"
+  }
+]
