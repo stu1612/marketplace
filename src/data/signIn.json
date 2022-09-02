@@ -1,0 +1,23 @@
+{
+  "name": {
+    "placeholder": "enter name",
+    "type": "text",
+    "id": "name",
+    "required": true,
+    "autofocus": true
+  },
+  "email": {
+    "placeholder": "enter email",
+    "type": "email",
+    "id": "email",
+    "required": true,
+    "autofocus": true
+  },
+  "password": {
+    "placeholder": "enter password",
+    "type": "password",
+    "id": "password",
+    "required": true,
+    "autofocus": false
+  }
+}
